@@ -81,3 +81,5 @@ check_palindrome()
 
 - **How it Works**: The system converts the input to lowercase for case-insensitive comparison and checks if it reads the same forwards and backwards.
 
+   ### Result of Code After Running 
+<img width="1294" height="169" alt="Image" src="https://github.com/user-attachments/assets/1ead2ff9-7a54-464a-941c-6a1fa0abcbcf" />
