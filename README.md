@@ -25,34 +25,4 @@ This project addresses solutions to practical programming challenges posed in th
 
 **Solution**: The following Python code implements the Student Management System:
 
-```python
-def calculate_average(grades):
-    return sum(grades) / len(grades)
-
-def input_student_info():
-    name = input("Enter student name: ")
-    age = int(input("Enter student age: "))
-    marks = []
-    
-    for i in range(3):  # Assuming 3 subjects
-        grade = float(input(f"Enter grade for subject {i+1}: "))
-        marks.append(grade)
-    return name, age, marks
-
-def display_result(name, age, grades, average):
-    print("\n--- Student Report ---")
-    print("Name:", name)
-    print("Age:", age)
-    print("Grades:", grades)
-    print("Average:", round(average, 2))
-
-def student_management_system():
-    name, age, grades = input_student_info()
-    avg = calculate_average(grades)
-    display_result(name, age, grades, avg)
-
-# Run the program
-student_management_system()
-```
-
 - **How it Works**: The system prompts the user to input a student's name, age, and grades for three subjects, calculates the average, and displays the results.
