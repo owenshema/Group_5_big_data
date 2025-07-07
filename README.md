@@ -5,7 +5,6 @@ Integrating basic python
 This project addresses solutions to practical programming challenges posed in the "Introduction to Big Data Analytics" course (INSY 841J). The course aims to equip students with foundational skills in handling and analyzing large datasets using Python, focusing on data input, processing, and output techniques. The questions explored here—building a Student Management System and checking palindromes—serve to enhance problem-solving abilities, reinforce functional programming concepts, and prepare students for real-world data management tasks.
 
 ### Project Details 📋
-- **Total Marks**: 10 points
 ### 👥Team Members:
    1. 25711- Tuyumvire Schiphtan  
    2. 27120 - Munezero Cindy
@@ -85,3 +84,9 @@ check_palindrome()
 
    ### Result of Code After Running 
 <img width="1356" height="586" alt="Image" src="https://github.com/user-attachments/assets/204b87c0-4063-4b2d-9cb2-a6879e497cfd" />
+
+## Requirements 🛠️
+- Use `input()` to get user input.
+- Use a function to perform the tasks obtained from the combined text.
+- Return the list of characters.
+- Display the thank you message on the console.
