@@ -90,3 +90,9 @@ check_palindrome()
 - Use a function to perform the tasks obtained from the combined text.
 - Return the list of characters.
 - Display the thank you message on the console.
+
+## Usage 🚀
+1. Run the Python script for the Student Management System.
+2. Follow the prompts to input student details.
+3. View the displayed report with the average grade.
+4. Run the palindrome check script and input a string to test.
