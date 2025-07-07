@@ -12,7 +12,7 @@ This project addresses solutions to practical programming challenges posed in th
    3. 26600 - Mugeni Cynthia
    4. 26622 - Gatsinzi Ernest
    5. 26939 - Bucagu Chedrick Elisa
-   6. 26953 - Shema Owen
+   6. 26253 - Shema Owen
 
 ## Questions and Solutions 💻
 ### Question I: Student Management System Function
