@@ -57,6 +57,8 @@ student_management_system()
 
 - **How it Works**: The system prompts the user to input a student's name, age, and grades for three subjects, calculates the average, and displays the results.
 
+   ### Result of Code After Running 
+<img width="1294" height="169" alt="Image" src="https://github.com/user-attachments/assets/1ead2ff9-7a54-464a-941c-6a1fa0abcbcf" />
 
   ### Question II: Check Palindrome Function
 **Objective**: Write a function that asks the user to input a string and checks if the string is a palindrome (reads the same forwards and backwards). Print "Yes, it is palindrome" or "No, it is not a palindrome".
@@ -82,4 +84,4 @@ check_palindrome()
 - **How it Works**: The system converts the input to lowercase for case-insensitive comparison and checks if it reads the same forwards and backwards.
 
    ### Result of Code After Running 
-<img width="1294" height="169" alt="Image" src="https://github.com/user-attachments/assets/1ead2ff9-7a54-464a-941c-6a1fa0abcbcf" />
+<img width="1356" height="586" alt="Image" src="https://github.com/user-attachments/assets/204b87c0-4063-4b2d-9cb2-a6879e497cfd" />
