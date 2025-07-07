@@ -57,3 +57,27 @@ student_management_system()
 
 - **How it Works**: The system prompts the user to input a student's name, age, and grades for three subjects, calculates the average, and displays the results.
 
+
+  ### Question II: Check Palindrome Function
+**Objective**: Write a function that asks the user to input a string and checks if the string is a palindrome (reads the same forwards and backwards). Print "Yes, it is palindrome" or "No, it is not a palindrome".
+
+**Solution**: The following Python code implements the palindrome check:
+
+```python
+def is_palindrome(text):
+    text = text.lower()  # Make it case-insensitive
+    return text == text[::-1]
+
+def check_palindrome():
+    word = input("Enter a string: ")
+    if is_palindrome(word):
+        print("Yes, it is a palindrome")
+    else:
+        print("No, it is not a palindrome")
+
+# Run the function
+check_palindrome()
+```
+
+- **How it Works**: The system converts the input to lowercase for case-insensitive comparison and checks if it reads the same forwards and backwards.
+
