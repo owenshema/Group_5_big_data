@@ -97,8 +97,8 @@ check_palindrome()
 3. View the displayed report with the average grade.
 4. Run the palindrome check script and input a string to test.
 
-## Acknowledgments 🙏
-Blessings to you all! 📖
-
 ## Teamwork and Love Message ❤️
 **"Above all, love each other deeply, because love covers over a multitude of sins. Work together with one heart and mind, for through teamwork, we achieve greatness."** - Inspired by 1 Peter 4:8 and Proverbs 27:17.
+
+## Acknowledgments 🙏
+Blessings to you all! 📖
